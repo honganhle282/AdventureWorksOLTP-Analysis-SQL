@@ -1,4 +1,3 @@
-﻿
 ---Calculate the company's KPI indicators
 --Net profit
 
