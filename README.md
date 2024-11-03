@@ -16,21 +16,35 @@ Copy and paste the SQL statements from the files into the Query Editor and execu
 
 # Business Questions:
 Top 3 products with the highest sales each year?
+
 Overview of company revenue by year?
+
 Top RESELLER customers spend the most?
+
 Top online customers spend the most?
+
 Online sales and resells per year?
+
 The reasons for selling helps the company sell the most products?
+
 Top products on the decline (sales decline year by year)
+
 Sales by Region
+
 Products with highest inventory quality and longest inventory
+
 Best selling products by year
+
 
 # KPIs Indicators
 Net profit
+
 Average Order Value - AOV
+
 Net Profit Margin
+
 Average delivery time
+
 Production Cost per Unit
 
 
